@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  NewViewController.h
 //  golly_Structure
 //
 //  Created by 孙国立 on 2018/4/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface NewViewController : UIViewController
 
 @end
-
