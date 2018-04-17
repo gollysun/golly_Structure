@@ -101,15 +101,8 @@
 		1875D33A2085FFBA001BB6E6 /* golly_Structure */ = {
 			isa = PBXGroup;
 			children = (
-				1875D33B2085FFBB001BB6E6 /* AppDelegate.h */,
-				1875D33C2085FFBB001BB6E6 /* AppDelegate.m */,
-				1875D33E2085FFBB001BB6E6 /* ViewController.h */,
-				1875D33F2085FFBB001BB6E6 /* ViewController.m */,
-				1875D3412085FFBB001BB6E6 /* Main.storyboard */,
-				1875D3442085FFBB001BB6E6 /* Assets.xcassets */,
-				1875D3462085FFBB001BB6E6 /* LaunchScreen.storyboard */,
+				1875D36E2086012F001BB6E6 /* Commen */,
 				1875D3492085FFBB001BB6E6 /* Info.plist */,
-				1875D34A2085FFBB001BB6E6 /* main.m */,
 			);
 			path = golly_Structure;
 			sourceTree = "<group>";
@@ -130,6 +123,21 @@
 				1875D3612085FFBB001BB6E6 /* Info.plist */,
 			);
 			path = golly_StructureUITests;
+			sourceTree = "<group>";
+		};
+		1875D36E2086012F001BB6E6 /* Commen */ = {
+			isa = PBXGroup;
+			children = (
+				1875D34A2085FFBB001BB6E6 /* main.m */,
+				1875D33B2085FFBB001BB6E6 /* AppDelegate.h */,
+				1875D33C2085FFBB001BB6E6 /* AppDelegate.m */,
+				1875D33E2085FFBB001BB6E6 /* ViewController.h */,
+				1875D33F2085FFBB001BB6E6 /* ViewController.m */,
+				1875D3412085FFBB001BB6E6 /* Main.storyboard */,
+				1875D3442085FFBB001BB6E6 /* Assets.xcassets */,
+				1875D3462085FFBB001BB6E6 /* LaunchScreen.storyboard */,
+			);
+			path = Commen;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
